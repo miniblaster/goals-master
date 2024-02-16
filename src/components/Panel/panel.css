@@ -1,0 +1,28 @@
+.panel-bg{
+    background: #323150ed;
+    color: #e2e2e2;
+}
+.card-bg {
+    position: relative;
+    background: #323150ed;
+    height: 100vh;
+    color: #e2e2e2;
+    width: 100%;
+    margin-top: 5%;
+}
+.pl-0{
+    padding-left: 0 !important;
+}
+.pr-0{
+    padding-right: 0 !important;
+}
+.SnackbarItem-collapseWrapper-44{
+    width: 100% !important;
+}
+.SnackbarItem-collapseWrapperInner-46{
+    width: inherit !important;
+
+}
+.makeStyles-root-16{
+     margin-top:45px !important;
+}

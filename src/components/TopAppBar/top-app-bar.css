@@ -1,0 +1,41 @@
+* {
+    outline: none !important;
+}
+.root {
+    flex-grow: 1;
+}
+
+.menu-button {
+    margin-right: 2em;
+}
+.ml-auto{
+    margin-left: auto !important;
+}
+.ml-5p{
+    margin-left: 10px !important;
+}
+.text-left{
+    text-align: left !important;
+}
+.app-title{
+    text-align: right !important;
+    padding-right: 0;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-sm{
+    font-size: 1em !important;
+}
+.white-icon{
+    color: #ffffff !important;
+}
+.footer-text{
+    position: absolute;
+    bottom: 20px;
+    text-align: center;
+    width: 100%;
+}

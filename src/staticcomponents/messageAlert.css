@@ -1,0 +1,9 @@
+#root > div:nth-child(2){
+    top:6% !important;
+}
+#root > div:nth-child(2) > div > div > div{
+    width: 100%;
+}
+.MuiContainer-root{
+    margin-top: 45px;
+}

@@ -1,0 +1,66 @@
+.f9{
+    font-size: 0.9rem !important;
+    color: #9192a5;
+}
+.f7{
+    font-size: 0.7rem !important;
+    color: #9192a5;
+}
+#quantity{
+    font-size: 0.6em !important;
+}
+.coins{
+    background: #383759 !important;
+    position: relative;
+    width: 100%;
+}
+.quantity, .dollar{
+    background: #383759 !important;
+}
+.swipe-button{
+    position: relative;
+    width: 100%;
+    margin: 5% 0 0;
+}
+.f4{
+    font-size: 0.4em !important;
+}
+.mt-6{
+    margin-top: 5rem !important;
+}
+.title{
+    position: relative;
+    width: 100%;
+}
+.matchinfo{
+    position: relative;
+    width: 100%;
+    margin: 5% 0 0;
+}
+.swipeButton > div > div{
+    background: rgba(255,255,255,0.3) !important;
+
+}
+.swipeButton  > div > div > div{
+    background: rgba(255,255,255,0.3) !important;
+    color: #3a3d55 !important;
+}
+/*#root > div > div > div > div > div:nth-child(2) > div > div > div > div.row.swipe-button > div.MuiGrid-root.m-0.MuiGrid-container.MuiGrid-spacing-xs-3 > div.MuiGrid-root.swipeButton.MuiGrid-item.MuiGrid-grid-xs-12 > div > div > div.styles_rsbcSlider__1yYxD > span:nth-child(2){*/
+/*    width: 21px;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    top: 4%;*/
+/*    transform: unset;*/
+/*}*/
+.placed{
+    background: #b9b8c4 !important;
+    color: #fff !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 13px;
+    text-transform: uppercase;
+    border-radius: 50px;
+}

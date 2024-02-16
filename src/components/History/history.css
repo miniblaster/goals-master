@@ -1,0 +1,9 @@
+.MuiDialog-paperFullScreen{
+    background: #424169 !important;
+}
+.MuiInput-input, .MuiInput-underline:before, .MuiInput-underline:after{
+    color: #9190a9 !important;
+}
+.MuiInputLabel-root{
+    color: #eee !important;
+}

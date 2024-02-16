@@ -1,0 +1,94 @@
+ /* Some media queries for responsiveness */
+ @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+ 
+ @media (max-width: 991px){
+     .sidenav{
+         display:none;
+     }
+ }
+
+@media(max-width: 426px){
+    .vsc{
+        font-size:1.5rem;
+    }
+    .vsc2{
+        font-size:0.9rem;
+    }
+    .img-size{
+        height:60px;
+        width:60px;
+    }
+    .f1-size{
+        font-size:0.9rem;
+    }
+     .logo-size {
+          width:130px;
+}
+
+}
+@media(max-width: 700px){
+.menu1{
+   margin-right:2px; 
+}
+
+}
+
+ 
+ @media(max-width: 416px){
+.btnn1{
+    margin-right:0px;
+}
+  .btnn2{
+      margin-right:0px;
+  }   
+ }
+ 
+ @media(max-width: 500px){
+     #slider {
+         	width: 70px;
+	height: 70px;
+
+     }
+     #button-background{
+         	width: 280px;
+	height: 60px;
+     }
+ }
+ 
+ @media(max-width: 450px){
+     .f3-size {
+         font-size:1.3rem;
+      }
+      .refont{
+          font-size:0.7rem;
+      }
+     
+ }
+ 
+  @media(max-width: 395px){
+     .f3-size {
+         font-size:1.1rem;
+      }
+ }
+
+ @media(min-width: 1279px){
+     .coins{
+         bottom: 0% !important;
+     }
+     .page-title{
+         text-align: center !important;
+         margin-left: 165px !important;
+     }
+     .sidebar-text span{
+         font-size: 1.5em !important;
+     }
+     .swipe-button{
+         margin: 0 !important;
+     }
+     .pd-t{
+         padding-bottom: 0 !important;
+     }
+ }
